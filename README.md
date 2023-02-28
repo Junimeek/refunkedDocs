@@ -4,3 +4,6 @@ if you somehow stumbled across this repo by accident, this repo just exists so i
 
 ## ReFunked Engine
 link here: https://github.com/pahaze/refunked
+
+## ReFunked Archive
+To the left in the Releases are archives of all past builds of RFE.
